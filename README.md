@@ -13,6 +13,7 @@ This project helps to organized better. Technologies that used here : **TypeScri
 Small train project with  **TypeScript**,**React**, **Redux**, **Locale storage**,  **Hooks**, **CSS** . [code](https://github.com/NataliaKirik/Counter)  
 
 4. :memo:  [MobX Note taking app](https://nataliakirik.github.io/Note-Taking-App)  
-Small train project with **React**,**MobX-react-lite**,**Hooks**,**JavaScript**. [code](https://github.com/NataliaKirik/Note-Taking-App) 
+Small train project with **React**,**MobX-react-lite**,**Hooks**,**JavaScript**.  
+We can add note and delete  to click on it. [code](https://github.com/NataliaKirik/Note-Taking-App) 
 5.  :space_invader: Social network  
 Technologies that used here :**TypeScript**, **Redux**, **Hooks**, **REST API**. Unfinished project, I’m currently working on . [code](https://github.com/NataliaKirik/SocialNetwork) 
