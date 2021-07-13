@@ -1,7 +1,5 @@
 ## Hi there,i'm Natalia 👋
 
-### I'm frontend developer from Belarus and i like programming :purple_heart:
-
 #### My projects:
 1. :relaxed: [Flash-cards](https://nataliakirik.github.io/Friday-project)  
 This project helps to study with flash cards. Technologies that used here : **TypeScript**,**React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios**. 
