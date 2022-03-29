@@ -7,4 +7,3 @@
 
 #### React Native: [Social network](https://github.com/NataliaKirik/React_native_social-network), [Guess number](https://github.com/NataliaKirik/React_native_guess-number)
 _____________________________________________________________________
-#### learning:
